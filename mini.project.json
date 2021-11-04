@@ -1,0 +1,9 @@
+{
+  "cloud": {
+    "type": "miniappServerless"
+  },
+  "miniprogramRoot": "client",
+  "enableAppxNg": true,
+  "enableNodeModuleBabelTransform": true,
+  "node_modules_es6_whitelist": ["lodash-es","@alicloud/mpserverless-sdk"]
+}
